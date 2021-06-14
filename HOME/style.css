@@ -1,0 +1,64 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.hd{
+    width: 85%;
+    height: 100px;
+    float: right;
+ background-image: linear-gradient(to right, blue,black);
+}
+.nav{
+    width: 15%;
+    height: 500px;
+    float: left;
+   background-color: blue;
+
+}
+.main{
+    width: 85%;
+   height: 400px;
+    float: right;
+    background-color: cornflowerblue;
+}
+.pic{
+    width: 100%;
+   
+    float: right;
+    margin-top: 80px;
+}
+.ft{
+    width: 100%;
+    height: 50px;
+    background-image: linear-gradient(to right, blue ,black);
+    float: left;
+    text-align: center;
+    color: white;
+}
+li{
+    margin-left: 10px;
+    list-style-type: none;
+    padding: 5px;
+    font-size: bold;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.mid{
+    background-image: linear-gradient(to right,darkblue,white);
+    width: 100%;
+    height: 500px;
+}
+td{
+    padding: 20px;
+}
+.cnt{
+    background-color: black;
+    float: right;
+    width: 85%;
+    height: 400px;
+    
+}
+
+
